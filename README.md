@@ -54,4 +54,4 @@ pmid          = {27038966}, }
 ```
 
 This repository is organized as a set of Jupyter Notebook tutorials:
-- [Basic Linear Algebra](https://github.com/chene77/ARQOPUS/blob/main/BasicLinearAlgebra.ipynb)
+- [Basic Linear Algebra](https://github.com/chene/ARQOPUS/blob/14c32738e735c38e943d72651d8cdf901b337a3c/BasicLinearAlgebra.ipynb)

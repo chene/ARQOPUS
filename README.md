@@ -17,7 +17,7 @@ pages         = "",
 doi           = "10.1007/978-3-030-87202-1_35",
 notes         = "accepted", }
 ```
-You can download a copy of our MICCAI 2021 paper here.
+You can download a copy of our MICCAI 2021 paper [here](https://doi.org/10.1007/978-3-030-87202-1_35).
 
 
 #### This repository is structured as a set of Jupyter Notebook tutorial with Python codes.

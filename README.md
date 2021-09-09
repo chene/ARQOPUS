@@ -14,7 +14,7 @@ year          = "2021",
 publisher     = "Springer Berlin Heidelberg",
 address       = "Berlin, Heidelberg",
 pages         = "",
-doi           = "",
+doi           = "10.1007/978-3-030-87202-1_35",
 notes         = "accepted", }
 ```
 You can download a copy of our MICCAI 2021 paper here.

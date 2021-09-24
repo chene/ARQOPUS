@@ -11,11 +11,10 @@ author        = "Chen, Elvis C. S. and Ma, Burton and Peters, Terry M.",
 title         = "Quantitative Assessments for Ultrasound Probe Calibration",
 booktitle     = "Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2021",
 year          = "2021",
-publisher     = "Springer Berlin Heidelberg",
-address       = "Berlin, Heidelberg",
-pages         = "",
-doi           = "10.1007/978-3-030-87202-1_35",
-notes         = "accepted", }
+publisher     = "Springer International Publishing",
+address       = "Cham",
+pages         = "363--372",
+doi           = "10.1007/978-3-030-87202-1_35", }
 ```
 You can download a copy of our MICCAI 2021 paper [here](https://doi.org/10.1007/978-3-030-87202-1_35).
 

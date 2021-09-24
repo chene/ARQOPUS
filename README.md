@@ -10,6 +10,7 @@ This GitHub repository contains Jupyter Notebook/Python codes for our MICCAI 202
 author        = "Chen, Elvis C. S. and Ma, Burton and Peters, Terry M.",
 title         = "Quantitative Assessments for Ultrasound Probe Calibration",
 booktitle     = "Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2021",
+editor        = "de Bruijne, Marleen and Cattin, Philippe C. and Cotin, St{\'e}phane and Padoy, Nicolas and Speidel, Stefanie and Zheng, Yefeng and Essert, Caroline",
 year          = "2021",
 publisher     = "Springer International Publishing",
 address       = "Cham",

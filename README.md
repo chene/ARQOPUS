@@ -57,4 +57,4 @@ pmid          = {27038966}, }
 This repository is organized as a set of Jupyter Notebook tutorials:
 - [Basic Linear Algebra](https://github.com/chene/ARQOPUS/blob/main/BasicLinearAlgebra.ipynb)
 - [Point Fiducial Registration, aka. Orthogonal Procrustes Analysis](https://github.com/chene/ARQOPUS/blob/main/point_Procrustes.ipynb)
-- [Line Fiducial Registration](https://github.com/chene/ARQOPUS/blob/a35a6a6904e1a8cd4089cf5273c03faa7736f712/line_Procrustes.ipynb)
+- [Line Fiducial Registration](https://github.com/chene/ARQOPUS/blob/main/line_Procrustes.ipynb)

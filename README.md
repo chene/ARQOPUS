@@ -2,7 +2,7 @@
 
 pronounced as \ˈär-kə-pəs
 
-## Updated on October 7, 2021
+## Updated on December 13, 2021
 ## This is a work-in-progress. It is far from complete. It should be completed by mid-July, 2021. Any suggestion is very much appreciated.
 
 This GitHub repository contains Jupyter Notebook/Python codes for our MICCAI 2021 paper, which formulates a framework to assess the fitness of calibration for an instance of ultrasound probe calibration. If you find our MICCAI paper and codes below useful, please consider citing it using the following bibtex:

@@ -58,4 +58,4 @@ This repository is organized as a set of Jupyter Notebook tutorials:
 - [Basic Linear Algebra](https://github.com/chene/ARQOPUS/blob/main/BasicLinearAlgebra.ipynb)
 - [Point Fiducial Registration, aka. Orthogonal Procrustes Analysis](https://github.com/chene/ARQOPUS/blob/main/point_Procrustes.ipynb)
 - [Line Fiducial Registration](https://github.com/chene/ARQOPUS/blob/main/line_Procrustes.ipynb)
-- [Optimal Solution accounting for Fiducial Localization Error](https://github.com/chene/ARQOPUS/blob/main/HEIV.ipynb)
+- [Optimal solution in the presence of heteroscedastic Fiducial Localization Error](https://github.com/chene/ARQOPUS/blob/main/HEIV.ipynb)
